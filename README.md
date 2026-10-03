@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of studosi/mail-filter.** Not for installation: use [Packagist](https://packagist.org/packages/studosi/mail-filter) or the [upstream repository](https://github.com/studosi-flarum/mail-filter).
 
-**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/studosi-mail-filter/tree/archive/v0.2.0) · License: `Apache-2.0` · Flarum: `^0.1.0-beta.8`
+**6** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/studosi-mail-filter/tree/archive/v0.2.0) · License: `Apache-2.0` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.1` | 2020-03-16 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/studosi-mail-filter/tree/archive/v0.1.1) |
+| `0.2.0` | 2020-03-19 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/studosi-mail-filter/tree/archive/v0.2.0) |
+| `v0.1.2` | 2020-03-16 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/studosi-mail-filter/tree/archive/v0.1.2) |
+| `v0.1.3` | 2020-03-16 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/studosi-mail-filter/tree/archive/v0.1.3) |
+| `v0.1.4` | 2020-03-16 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/studosi-mail-filter/tree/archive/v0.1.4) |
+| `v0.1.5` | 2020-03-19 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/studosi-mail-filter/tree/archive/v0.1.5) |
 
 Catalog entry: [packages/studosi-mail-filter.json](https://github.com/flarchive/archive-index/blob/main/packages/studosi-mail-filter.json)
 
